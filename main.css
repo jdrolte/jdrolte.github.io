@@ -1,0 +1,57 @@
+
+.navbar {
+        box-shadow: 0 5px 5px 0 rgba(0, 0, 0, 0.16)
+    }
+    body {
+        padding-top: 5rem;
+
+        position: relative;
+    }
+    h2 {
+        font-family: 'Raleway';
+        color: #000;
+    }
+    #jumbo1 {
+        box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.16), 0 10px 20px 0 rgba(0, 0, 0, 0.12);
+        background-color: #fff;
+    }
+    .col-md-4 {
+        max-width: 400px;
+    }
+    .card     {
+        box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.16), 0 20px 20px 0 rgba(0, 0, 0, 0.12);
+    }
+    .card-img-top {
+        max-height: 180px;
+    }
+    #avatar{
+        max-height: 170px;
+        margin-top: -65px;
+        border-radius: 50%;
+        border: 5px solid #fff;
+        margin-bottom: 20px;
+        width:auto;
+    }
+    .footer i {
+        margin: auto;
+    }
+    .fa-twitter {
+        color: #1da1f2!important;
+    }
+    .fa-google-plus {
+        color: #d62408!important;
+    }
+    .fa-rss {
+        color: #ff8300!important;
+    }
+    .card-title {
+        font-family: 'Raleway';
+    }
+    .card-subtitle {
+        font-family: 'Slabo 13px';
+    }
+    #InputName, #InputEmail, #InputPhone, #InputMessage {
+        box-shadow: 0 20px 20px 0 rgba(0, 0, 0, 0.16), 0 20px 20px 0 rgba(0, 0, 0, 0.12);
+    }
+<!-- /CSS/jQuery Styling -->
+
